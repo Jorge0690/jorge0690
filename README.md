@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jorge Luis Enrique Soto Medina</h1>
    <h3 align="center">A passionate Web developer from Iquitos, Perú &#127470;&#127475</h3>
    
-   <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="jle_sotomedina" /> </p>
    
    <p align="left"> <a href="https://twitter.com/jle_sotomedina" target="blank"><img src="https://img.shields.io/twitter/follow/jle_sotomedina?logo=twitter&style=for-the-badge" alt="jle_sotomedina" /></a> </p>
    
@@ -9,21 +8,18 @@
      <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
    </a>
    
-   - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+   - 🔭 I am currently searching for internships. 
    
-   - 🌱 I’m currently Working on Mobile App(React-Native)
+   - 🌱 I am currently working on a website.
    
    - 🤝 I’m available for freelancing.
    
-   - 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+   - 🌱 I am currently learning GAS (google app script) and Appsheet
    
-   - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
    
-   - 💬 Ask me about **Reactjs & React-Native**
+   - 📫 How to reach me **jle.sotomedina@gmail.com**
    
-   - 📫 How to reach me **saurabhchavan052@gmail.com**
-   
-   - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+
    <br/>
    <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
    
@@ -49,4 +45,5 @@
          </div>
    
    </p>
+   
    
